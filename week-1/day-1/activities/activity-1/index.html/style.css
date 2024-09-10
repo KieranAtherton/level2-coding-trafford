@@ -1,0 +1,33 @@
+body {
+    background-color: antiquewhite;
+    font-family:serif;
+    
+}
+
+h1 {
+  color:goldenrod;
+  font-size: 40px;
+  text-decoration: underline;
+  text-decoration-style: initial;
+}
+
+
+.subheading {
+    color:black;
+    font-family:serif;
+    text-decoration: underline;
+
+}
+
+p {
+    color:black;
+    font-size: 25px;
+    font-family: serif;
+    
+}
+
+img {
+    width: 30%;
+}
+
+
