@@ -1,0 +1,131 @@
+* {
+    list-style: none;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    background-color: antiquewhite;
+    border-radius: 2cm;
+}
+
+h1 {
+    font-family: "Dancing Script", cursive;
+    position: relative;
+    top: 2em;
+    left: 23em;
+}
+
+h2 {
+    display: flex;
+    justify-content: flex-start;
+    height: 0px;
+    position: relative;
+    top: 14px;
+    left: 25px;
+    font-family: "Dancing Script", cursive;
+}
+
+.container {
+    padding: 0px;
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+    background-color: rgb(237, 206, 167);;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+}
+
+li {
+    padding: 10px;
+    text-decoration: underline;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 17em;
+    font-weight: bold;
+}
+
+
+.imgs {
+    position: relative;
+    top: 14em;
+    left: 48em;
+}
+
+.para {
+    position: relative;
+    top: 100px;
+    font-weight: bold;
+    width: 45em;
+    left: 20em;
+    font-family: "Dancing Script", cursive;
+    font-size: x-large;
+}
+    
+.head {
+    position: relative;
+    font-size: large;
+    right: 0em;
+    bottom: 8em;
+}
+
+.container2 {
+    border: 1px solid red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative;
+    top: 20em;
+    font-size: larger;
+    font-family: "Dancing Script", cursive;
+    font-weight: bold;
+    
+}
+
+.photo {
+    border: 1px solid blue;
+}
+
+.imgssss {
+    border-radius: 2cm;
+    position: relative;
+    left: 32em;
+    top: 3em;
+}
+
+.imgss {
+    position:absolute;
+    float:right;
+    margin-top:33em;
+    margin-left:48em;
+}
+
+.linkss {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 36em;
+    font-weight: bold;
+}
+
+.paragraph {
+    position: relative;
+    bottom: 1em;
+    font-weight: bold;
+    width: 45em;
+    left: 20em;
+    font-family: "Dancing Script", cursive;
+    font-size: x-large;
+}
+
+.imagess {
+    position:absolute;
+    float:right;
+    margin-top:14em;
+    margin-left:48em;
+}
