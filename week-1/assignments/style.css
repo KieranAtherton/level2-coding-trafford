@@ -46,7 +46,8 @@ li {
     display: flex;
     justify-content: center;
     position: relative;
-    top: 19em;
+    top: 19em;   
+    right: 3em;
     font-weight: bold;
 }
 
@@ -98,7 +99,7 @@ li {
     position:absolute;
     float:right;
     margin-top:31em;
-    margin-left:48em;
+    margin-left:45em;
 }
 
 .linkss {
@@ -106,6 +107,7 @@ li {
     justify-content: center;
     position: relative;
     top: 34em;
+    right: 3em;
     font-weight: bold;
 }
 
@@ -123,7 +125,7 @@ li {
     position:absolute;
     float:right;
     margin-top:16em;
-    margin-left:48em;
+    margin-left:45em;
 }
 
 p {
