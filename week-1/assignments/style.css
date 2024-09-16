@@ -132,3 +132,26 @@ p {
     position: relative;
     left: 3em;
 }
+
+@media screen and (max-width: 810px) {
+    .content > img {
+      object-fit: cover;
+      max-width: 700px;
+      margin-top: 1em;
+      border-radius: 0.5em;
+    }
+   
+    .content h1 {
+      font-size: 3em;
+    }
+   
+    .content > .lede {
+      width: 700px;
+      font-size: 1.3em;
+    }
+   
+    .menu-item {
+      margin-top: 0;
+    }
+  }
+   
